@@ -1,0 +1,26 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/UE5.4_Projects/BackInTime/Content/_Test/S_TimeInfo.uasset",
+				"D:/UE5.4_Projects/BackInTime/Content/_Test/BPC_BackTimeComponent.uasset",
+				"D:/UE5.4_Projects/BackInTime/Content/_Test/BP_TestActor.uasset",
+				"D:/UE5.4_Projects/BackInTime/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset",
+				"D:/UE5.4_Projects/BackInTime/Content/FirstPerson/Blueprints/BP_Pickup_Rifle.uasset",
+				"D:/UE5.4_Projects/BackInTime/Content/FirstPersonArms/Animations/FirstPerson_AnimBP.uasset",
+				"D:/UE5.4_Projects/BackInTime/Content/FirstPerson/Blueprints/BP_Weapon_Component.uasset",
+				"D:/UE5.4_Projects/BackInTime/Content/_Test/BP_FirstPersonCharacter.uasset",
+				"D:/UE5.4_Projects/BackInTime/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"D:/UE5.4_Projects/BackInTime/Content/_Test/BP_BackTimeActor.uasset",
+				"D:/UE5.4_Projects/BackInTime/Content/_Test/BPI_BackTime.uasset",
+				"D:/UE5.4_Projects/BackInTime/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/Q1/795M35YRAM89ZWGMCVBEJD.uasset",
+				"D:/UE5.4_Projects/BackInTime/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/5W/EFU4L98GNLX3EVAN2ZUC3H.uasset",
+				"D:/UE5.4_Projects/BackInTime/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/FE/JCAJKMOMK1J7PWIGMDXSJI.uasset",
+				"D:/UE5.4_Projects/BackInTime/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/5M/PETRWP761VMA0M55AY93D3.uasset"
+			]
+		}
+	]
+}
